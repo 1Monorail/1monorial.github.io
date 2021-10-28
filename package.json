@@ -1,0 +1,14 @@
+{
+  "name": "ceevee10",
+  "version": "1.0.0",
+  "description": "mongodb+srv://mega:<megamega>@tim0-qvxcd.mongodb.net/test?retryWrites=true&w=majority"
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timothy Moses",
+  "license": "ISC",
+  "dependencies": {
+    "webconfig": "^1.0.3"
+  }
+}
